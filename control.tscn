@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=3 uid="uid://b8jslr4cgatgg"]
+
+[ext_resource type="Texture2D" uid="uid://cymbyi3qx10qd" path="res://23b9b534f0d127d5e0cf050f3ff31deb.jpg" id="1_0fbet"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -4.0
+offset_top = 3.0
+offset_right = -4.0
+offset_bottom = 3.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="23b9b534f0d127d5e0Cf050f3Ff31Deb" type="Sprite2D" parent="."]
+position = Vector2(578.5, 324.25)
+scale = Vector2(1.56658, 1.58273)
+texture = ExtResource("1_0fbet")
